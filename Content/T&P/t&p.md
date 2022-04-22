@@ -41,7 +41,7 @@ Students of the previous batches have further assured the solid foundation of ou
 ## Major Recruiters
 
 \
-![MajorRecruiters](Images/MajorRecruiters-min.jpg)
+![MajorRecruiters](Images/MajorRecruitersUpdated.jpg)
 
 <br />
 
@@ -85,37 +85,56 @@ We have a training placement team which includes Student Coordinators, Deputy Co
 
 | Company Name | Package(LPA) |
 |--------------|--------------|
+|Amazon | 25 |
 |Samsung | 14.5 |
+|Microsoft | 14 |
 |Zscaler | 13.94 |
+|ZS Associates | 12.8 |
+|Infor | 8.5 |
+|Infosys | 8 |
+|SML ISUZU | 6.53 |
 |TCS(Digital) | 7 |
 |Sapient | 6.5 |
+|IBM | 6.5 |
+|Hitachi Vantra | 6.5 |
 |Larsen & Tourbo | 6.3 |
+|BYJU's | 6 |
+|Volvo Eicher | 6 |
 |Modak Analystics LLP | 6 |
 |Paxcom | 6 |
 |Pure Software Pvt. Ltd. | 6 |
 |Surya Software | 6 |
 |Volvo- Eicher(VE) Commercial Vehicles Ltd. | 6 |
 |Argusoft | 5.62 |
+|Vodafone Idea | 5.5 |
+|JSW | 5.5 |
 |Xenonstack | 5.5 |
 |Accolite Digital India Private Limited | 5 |
 |HCL Technologies Ltd. | 4.75 |
+|Tata Technologies | 4.65 |
 |Venture Pact, LLC | 4.62 |
+|Accenture | 4.5 |
 |Brillio | 4.5 |
 |ChicMic | 4.5 |
 |Clerisy Solutions Pvt Ltd. | 4.5 |
+|Denso | 4.24 |
 |Capgemini | 4 |
 |Cloud Analogy Softech Pvt. Ltd. | 4 |
 |Cognizant | 4 |
 |Orion eSolutions Pvt. Ltd. | 3.75 |
-|Infosys Limited | 3.6 |
+|Schneider Electric | 3.75 |
 |SafeAeon Inc. | 3.6 |
 |Bebo Technologies | 3.5 |
 |Wipro | 3.5 |
-|BYJU's | 3.36 |
 |TCS (Ninja) | 3.36 |
+|ACC | 3.5 |
 |BizMerlin HR. | 3.3 |
 |Brisk Logic Pvt. Ltd. | 3 |
+|Beetel | 3 |
+|IndiaMart | 3 |
+|Hero | 2.64 |
 |Step2gen | 2.6 |
+|Sonalika | 2.5 |
 |Damsun Group | 2.1 |
 
 ## Internship Insights
